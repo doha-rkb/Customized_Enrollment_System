@@ -1,0 +1,268 @@
+L'etudiant R667788 a été ajouter ! en :: Mon Jan 03 20:43:50 2022
+ Un affichage des Etudiants du Cycle d'Ingenieure GC    effectue a :: Mon Jan 03 21:12:38 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 03 21:18:47 2022
+
+Un affichage des Etudiants du Deuxieme Annee  :: operation effectuee a :  Mon Jan 03 21:19:12 2022
+
+une recherche de l'etudiant ayant le CNE  R667788  :: operation effectuee a :  Mon Jan 03 21:19:32 2022
+  
+l'etudiant ayant le CNE  R667788 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:19:44 2022
+ 
+un affichage de la corbeille   :: operation effectuee a :  ��a 
+ l'etudiant ayant le CNE  R123456 a ete modifie  :: operation effectuee a :   Mon Jan 03 21:21:47 2022
+  
+l'etudiant ayant le CNE  R123456 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:24:16 2022
+ 
+l'etudiant ayant le CNE  R123456 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:26:15 2022
+ 
+l'etudiant ayant le CNE  R123456 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:28:11 2022
+ 
+l'etudiant ayant le CNE  R667788 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:30:28 2022
+ 
+l'etudiant ayant le CNE  R556677 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:31:11 2022
+ 
+l'etudiant ayant le CNE  Q991822 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:32:11 2022
+ 
+ l'etudiant ayant le CNE  E893999 a ete modifie  :: operation effectuee a :   Mon Jan 03 21:36:11 2022
+  
+une recherche de l'etudiant ayant le CNE  R324155  :: operation effectuee a :  Mon Jan 03 21:43:50 2022
+  
+l'etudiant ayant le CNE  R324155 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:44:09 2022
+ 
+une recherche de l'etudiant ayant le CNE  R999988  :: operation effectuee a :  Mon Jan 03 21:50:03 2022
+  
+l'etudiant ayant le CNE  R999988 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:50:23 2022
+ 
+une recherche de l'etudiant ayant le CNE  R999988  :: operation effectuee a :  Mon Jan 03 21:53:05 2022
+  
+l'etudiant ayant le CNE  R999988 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:53:18 2022
+ 
+une recherche de l'etudiant ayant le CNE  R999988  :: operation effectuee a :  Mon Jan 03 21:55:22 2022
+  
+l'etudiant ayant le CNE  R999988 a ete supprime  :: operation effectuee a :  Mon Jan 03 21:55:25 2022
+ 
+une recherche de l'etudiant ayant le CNE  R999988  :: operation effectuee a :  Mon Jan 03 22:00:23 2022
+  
+l'etudiant ayant le CNE  R999988 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:00:26 2022
+ 
+une recherche de l'etudiant ayant le CNE  R999988  :: operation effectuee a :  Mon Jan 03 22:03:17 2022
+  
+l'etudiant ayant le CNE  R999988 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:03:19 2022
+ 
+l'etudiant ayant le CNE  R999988 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:04:03 2022
+ 
+ l'etudiant ayant le CNE  R324155 a ete modifie  :: operation effectuee a :   Mon Jan 03 22:05:18 2022
+  
+une recherche de l'etudiant ayant le CNE  R324155  :: operation effectuee a :  Mon Jan 03 22:15:14 2022
+  
+l'etudiant ayant le CNE  R324155 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:15:29 2022
+ 
+une recherche de l'etudiant ayant le CNE  R324155  :: operation effectuee a :  Mon Jan 03 22:17:50 2022
+  
+l'etudiant ayant le CNE  R324155 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:17:55 2022
+ 
+une recherche de l'etudiant ayant le CNE  R324155  :: operation effectuee a :  Mon Jan 03 22:19:32 2022
+  
+l'etudiant ayant le CNE  R324155 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:19:35 2022
+ 
+l'etudiant ayant le CNE  R324155 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:20:32 2022
+ 
+l'etudiant ayant le CNE  R324155 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:21:40 2022
+ 
+l'etudiant ayant le CNE  SD09874 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:25:00 2022
+ 
+ l'etudiant ayant le CNE  SD09874 a ete modifie  :: operation effectuee a :   Mon Jan 03 22:26:07 2022
+  
+une recherche de l'etudiant ayant le CNE  R123456  :: operation effectuee a :  Mon Jan 03 22:27:37 2022
+  
+une recherche de l'etudiant ayant le CNE  R123456  :: operation effectuee a :  Mon Jan 03 22:32:03 2022
+  
+l'etudiant ayant le CNE  R123456 a ete supprime  :: operation effectuee a :  Mon Jan 03 22:32:07 2022
+ 
+une recherche de l'etudiant ayant le CNE  R123456  :: operation effectuee a :  Mon Jan 03 22:34:13 2022
+  
+ l'etudiant ayant le CNE  R123456 a ete modifie  :: operation effectuee a :   Mon Jan 03 22:34:16 2022
+  
+une recherche de l'etudiant ayant le CNE  R123456  :: operation effectuee a :  Mon Jan 03 22:36:06 2022
+  
+un affichage de la corbeille   :: operation effectuee a : Mon Jan 03 22:37:42 2022
+ 
+ l'etudiant ayant le CNE  R123456 a ete modifie  :: operation effectuee a :   Mon Jan 03 22:38:43 2022
+  
+ l'etudiant ayant le CNE  R123456 a ete modifie  :: operation effectuee a :   Mon Jan 03 22:40:39 2022
+  
+L'etudiant  de CNE K12345 a été ajouter  :: operation effectuee a :  Tue Jan 04 01:09:43 2022
+ 
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Tue Jan 04 01:10:00 2022
+
+une recherche de l'etudiant ayant le CNE  K12345  :: operation effectuee a :  Tue Jan 04 01:10:19 2022
+  
+l'etudiant ayant le CNE  K12345 a ete supprime  :: operation effectuee a :  Tue Jan 04 01:10:46 2022
+ 
+l'etudiant ayant le CNE  K12345 a ete supprime  :: operation effectuee a :  Tue Jan 04 01:19:18 2022
+ 
+ l'etudiant ayant le CNE  K12345 a ete modifie  :: operation effectuee a :   Tue Jan 04 01:20:14 2022
+  
+L'etudiant  de CNE K123 a été ajouter  :: operation effectuee a :  Tue Jan 04 01:20:55 2022
+ 
+L'etudiant  de CNE WIAM a été ajouter  :: operation effectuee a :  Tue Jan 04 01:21:30 2022
+ 
+ l'etudiant ayant le CNE  WIAM a ete modifie  :: operation effectuee a :   Tue Jan 04 01:21:45 2022
+  
+ l'etudiant ayant le CNE  K14567 a ete modifie  :: operation effectuee a :   Tue Jan 04 01:24:26 2022
+  
+une recherche de l'etudiant ayant le CNE  K123  :: operation effectuee a :  Tue Jan 04 01:30:33 2022
+  
+une recherche de l'etudiant ayant le CNE  K123  :: operation effectuee a :  Tue Jan 04 01:31:40 2022
+  
+L'etudiant  de CNE K123456 a été ajouter  :: operation effectuee a :  Tue Jan 04 01:33:48 2022
+ 
+ l'etudiant ayant le CNE  K123 a ete modifie  :: operation effectuee a :   Tue Jan 04 01:34:00 2022
+  
+Un affichage des Etudiant du Cycle d'Ingenieure DATA  :: operation effectuee a :  Tue Jan 04 01:34:45 2022
+
+une recherche de l'etudiant ayant le CNE  K123  :: operation effectuee a :  Tue Jan 04 01:35:08 2022
+  
+une recherche de l'etudiant ayant le CNE  L123  :: operation effectuee a :  Tue Jan 04 01:35:56 2022
+  
+un affichage de la corbeille   :: operation effectuee a : Tue Jan 04 01:36:12 2022
+ 
+ l'etudiant ayant le CNE  L123 a ete modifie  :: operation effectuee a :   Tue Jan 04 01:38:15 2022
+  
+une recherche de l'etudiant ayant le CNE  K123  :: operation effectuee a :  Tue Jan 04 01:39:00 2022
+  
+un affichage de la corbeille   :: operation effectuee a : Tue Jan 04 01:39:33 2022
+ 
+Un affichage des Etudiant du Troisieme Annee  :: operation effectuee a :  Mon Jan 10 14:56:45 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 14:57:27 2022
+
+L'etudiant  de CNE KE3456 a été ajouter  :: operation effectuee a :  Mon Jan 10 14:58:10 2022
+ 
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 14:58:27 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:04:19 2022
+
+Un affichage des Etudiant du Troisieme Annee  :: operation effectuee a :  Mon Jan 10 15:04:49 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:12:42 2022
+
+L'etudiant  de CNE J12345 a été ajouter  :: operation effectuee a :  Mon Jan 10 15:13:15 2022
+ 
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:13:24 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:13:42 2022
+
+L'etudiant  de CNE H5678 a été ajouter  :: operation effectuee a :  Mon Jan 10 15:14:13 2022
+ 
+L'etudiant  de CNE K8907 a été ajouter  :: operation effectuee a :  Mon Jan 10 15:14:40 2022
+ 
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:14:47 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:16:17 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:19:48 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GC  :: operation effectuee a :  Mon Jan 10 15:19:48 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GC  :: operation effectuee a :  Mon Jan 10 15:23:12 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GC  :: operation effectuee a :  Mon Jan 10 15:24:02 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GC  :: operation effectuee a :  Mon Jan 10 15:24:50 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:28:10 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:29:47 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:29:47 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:30:34 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:30:34 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:30:45 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:30:45 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:33:16 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:33:53 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:34:40 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:34:40 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:35:39 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:36:18 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:37:16 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:37:34 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:38:10 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:38:46 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:40:33 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 15:41:20 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:44:09 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:45:06 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:45:50 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:46:16 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:46:48 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:47:00 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 15:47:25 2022
+
+Un affichage des Etudiant du Cycle d'Ingenieure DATA  :: operation effectuee a :  Mon Jan 10 15:50:12 2022
+
+Un affichage des Etudiant du Cycle d'Ingenieure DATA  :: operation effectuee a :  Mon Jan 10 15:50:49 2022
+
+ Un affichage des Etudiants du Cycle d'Ingenieure GM  :: operation effectuee a :  Mon Jan 10 15:52:46 2022
+
+ Un affichage des Etudiants du Cycle d'Ingenieure GM  :: operation effectuee a :  Mon Jan 10 15:53:31 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 15:53:39 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:53:45 2022
+
+Un affichage des Etudiant du Cycle d'Ingenieure DATA  :: operation effectuee a :  Mon Jan 10 15:54:34 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:54:41 2022
+
+une recherche de l'etudiant ayant le CNE  K123456  :: operation effectuee a :  Mon Jan 10 15:55:03 2022
+  
+ l'etudiant ayant le CNE  K123456 a ete modifie  :: operation effectuee a :   Mon Jan 10 15:55:31 2022
+  
+ l'etudiant ayant le CNE  K123456 a ete modifie  :: operation effectuee a :   Mon Jan 10 15:56:27 2022
+  
+ l'etudiant ayant le CNE  K123 a ete modifie  :: operation effectuee a :   Mon Jan 10 15:57:05 2022
+  
+l'etudiant ayant le CNE  K1234 a ete supprime  :: operation effectuee a :  Mon Jan 10 15:58:21 2022
+ 
+un affichage de la corbeille   :: operation effectuee a : Mon Jan 10 15:58:53 2022
+ 
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 15:59:48 2022
+
+Un affichage des Etudiants du Cycle Preparatoire  :: operation effectuee a :  Mon Jan 10 16:13:28 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GI  :: operation effectuee a :  Mon Jan 10 16:13:37 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEE  :: operation effectuee a :  Mon Jan 10 16:13:50 2022
+
+Un affichage des Etudiants du Cycle d'Ingenieure GEER  :: operation effectuee a :  Mon Jan 10 16:13:58 2022
+
+ Un affichage des Etudiants du Cycle d'Ingenieure GM  :: operation effectuee a :  Mon Jan 10 16:15:12 2022
+
+Un affichage des Etudiant du Cycle d'Ingenieure DATA  :: operation effectuee a :  Mon Jan 10 16:15:21 2022
+

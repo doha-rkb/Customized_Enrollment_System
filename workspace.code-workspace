@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Gestion D'inscription-20211215T153318Z-001",
+			"uri": "vsls:/"
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"typescript.tsc.autoDetect": "off",
+		"debug.allowBreakpointsEverywhere": true,
+		"html.autoClosingTags": false
+	}
+}
